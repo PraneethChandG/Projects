@@ -1,0 +1,13 @@
+prefix=C:/gitprojects/invoiceExtractor/venv/Library
+exec_prefix=C:/gitprojects/invoiceExtractor/venv/Library
+libdir=C:/gitprojects/invoiceExtractor/venv/Library/lib
+sharedlibdir=C:/gitprojects/invoiceExtractor/venv/Library/lib
+includedir=C:/gitprojects/invoiceExtractor/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
