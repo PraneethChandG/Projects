@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/934240718161479422/78b87740eb0845efa24577c709280c9d/artifacts
+end_time: 1747102414225
+entry_point_name: ''
+experiment_id: '934240718161479422'
+lifecycle_stage: active
+run_id: 78b87740eb0845efa24577c709280c9d
+run_name: wise-wren-641
+run_uuid: 78b87740eb0845efa24577c709280c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747102333161
+status: 3
+tags: []
+user_id: prane

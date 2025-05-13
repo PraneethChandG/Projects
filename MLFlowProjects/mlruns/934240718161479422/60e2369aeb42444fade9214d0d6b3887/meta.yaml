@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/934240718161479422/60e2369aeb42444fade9214d0d6b3887/artifacts
+end_time: 1747026259053
+entry_point_name: ''
+experiment_id: '934240718161479422'
+lifecycle_stage: active
+run_id: 60e2369aeb42444fade9214d0d6b3887
+run_name: popular-bass-109
+run_uuid: 60e2369aeb42444fade9214d0d6b3887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747026228665
+status: 3
+tags: []
+user_id: prane

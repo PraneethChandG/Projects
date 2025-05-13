@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/934240718161479422/e0e501f71a1949f1b729d6b1d50e6f80/artifacts
+end_time: 1747102688118
+entry_point_name: ''
+experiment_id: '934240718161479422'
+lifecycle_stage: active
+run_id: e0e501f71a1949f1b729d6b1d50e6f80
+run_name: victorious-rat-652
+run_uuid: e0e501f71a1949f1b729d6b1d50e6f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747102673176
+status: 3
+tags: []
+user_id: prane
